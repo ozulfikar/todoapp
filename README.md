@@ -1,1 +1,2 @@
 # todoapp
+burası readme dosyası
